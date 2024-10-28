@@ -27,3 +27,7 @@ Módulos del Primer Año
         o	Configuración de entornos de desarrollo integrados (IDEs).
         o	Control de versiones con Git.
         o	Uso de herramientas para la depuración y pruebas
+    6. Metodología 
+        o   El curso se desarrolla mediante clases teóricas y prácticas, con proyectos intermodulares
+
+Hay que hacer alguna modificacion para el diff
